@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- for beauty (optional empty div removed for simplicity) -->
+<div style="width: 20px;"> </div>
 
 <!-- profile logo and visitor statistics logo -->
 <div align="left" style="margin-top: 10px;">
