@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=core666666" /> </div>
 
-<h1 align="center"> <a href="https://51rexue.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Keep trying no matter how hard it seems. it will get easier.&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="http://51rexue.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Keep trying no matter how hard it seems. it will get easier.&center=true&size=27"> </a> </h1>
