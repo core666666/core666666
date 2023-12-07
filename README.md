@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=core666666&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 
 <!-- profile logo 个人资料徽标 -->
-  <div align="left" margin-top="10px">
+  <div align="left" style="margin-top:'10px'">
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=core666666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
