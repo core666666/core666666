@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="http://www.51rexue.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);Keep trying no matter how hard it seems. it will get easier.&center=true&size=25" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);Keep trying no matter how hard it seems. it will get easier.&center=true&size=22" />
     </a>
   </div> 
  
