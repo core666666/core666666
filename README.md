@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <!-- dynamic typing effect -->
-  <div style="flex: 1; text-align: right; padding-right: 10px;">
-    <a href="http://www.51rexue.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);Keep trying no matter how hard it seems. it will get easier.&center=true&size=22" />
-    </a>
-  </div> 
- 
+  <a href="http://www.51rexue.cn/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);Keep trying no matter how hard it seems. it will get easier.&center=true&size=22" />
+  </a>
   <!-- space between the images -->
   <div style="width: 20px;"></div> <!-- Adjust width as necessary for your spacing needs -->
 
