@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <!-- dynamic typing effect -->
   <div style="flex: 1; text-align: right; padding-right: 10px;">
     <a href="">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=735&lines=Keep+trying+no+matter+how+hard+it+seems.+it+will+get+easier." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=735&lines=Keep+trying+no+matter+how+hard+it+seems.+it+will+get+easier.;%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%87%88%EF%BC%8C%E9%9A%BE%E4%B9%9F%E5%8F%98%E6%98%93%E3%80%82" alt="Typing SVG" /></a>
     </a>
   </div> 
  
